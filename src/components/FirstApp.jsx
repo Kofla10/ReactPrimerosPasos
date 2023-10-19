@@ -34,7 +34,7 @@ const FirstApp = ({title, subTitle}) => {
     )
 }
 
-FirstApp.PropTypes = {
+FirstApp.propTypes = {
     title: PropTypes.string
 }
 
